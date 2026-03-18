@@ -33,10 +33,10 @@
 
 - Kotlin
 - Python
-- :contentReference[oaicite:0]{index=0}
+- RoBERTa
 - HuggingFace Transformers
 - AWS S3
-- CSV 데이터 처리
+- Pandas
 
 ---
 
@@ -45,3 +45,15 @@
 - 다중 감정 분류 모델을 활용한 감정 분석
 - 리뷰 데이터 기반 감정 벡터 생성
 - 코사인 유사도를 활용한 추천 시스템 구현
+
+## 📂 프로젝트 구조
+
+- ## 📌 실행 방법
+
+1. 프로젝트 클론
+```bash
+git clone https://github.com/kwonmisung/emotion-book-recommendation.git
+
+2. Android Studio에서 프로젝트 열기
+3. Gradle Sync 진행
+4. 에뮬레이터 또는 실제 기기 실행

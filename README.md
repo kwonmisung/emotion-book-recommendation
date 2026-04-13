@@ -9,10 +9,10 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./screenshots/login.png" width="250"/>
-  <img src="./screenshots/reco1.png" width="250"/>
-  <img src="./screenshots/music.png" width="250"/>
-  <img src="./screenshots/chart.png" width="250"/>
+  <img src="./screenshots/login.png" width="150"/>
+  <img src="./screenshots/reco1.png" width="150"/>
+  <img src="./screenshots/music.png" width="150"/>
+  <img src="./screenshots/chart.png" width="150"/>
 </p>
 
 ## 🚀 주요 기능

@@ -9,10 +9,10 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./screenshots/login.png" width="150"/>
-  <img src="./screenshots/reco1.png" width="150"/>
-  <img src="./screenshots/music.png" width="150"/>
-  <img src="./screenshots/chart.png" width="150"/>
+  <img src="./screenshots/login.png" width="200"/>
+  <img src="./screenshots/reco1.png" width="200"/>
+  <img src="./screenshots/music.png" width="200"/>
+  <img src="./screenshots/chart.png" width="200"/>
 </p>
 
 ## 🚀 주요 기능
@@ -59,10 +59,10 @@
 ## 📸 추가 Screenshots
 
 <p align="center">
-  <img src="./screenshots/splash.png" width="150"/>
-  <img src="./screenshots/log.png" width="150"/>
-  <img src="./screenshots/list.png" width="150"/>
-  <img src="./screenshots/settings.png" width="150"/>
+  <img src="./screenshots/splash.png" width="200"/>
+  <img src="./screenshots/log.png" width="200"/>
+  <img src="./screenshots/list.png" width="200"/>
+  <img src="./screenshots/settings.png" width="200"/>
 </p>
 
 --

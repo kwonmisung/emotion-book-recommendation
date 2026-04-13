@@ -56,7 +56,16 @@
 - 리뷰 데이터 기반 감정 벡터 생성
 - 코사인 유사도를 활용한 추천 시스템 구현
 
-## 📂 프로젝트 구조
+## 📸 추가 Screenshots
+
+<p align="center">
+  <img src="./screenshots/splash.png" width="150"/>
+  <img src="./screenshots/log.png" width="150"/>
+  <img src="./screenshots/list.png" width="150"/>
+  <img src="./screenshots/settings.png" width="150"/>
+</p>
+
+--
 
 - ## 📌 실행 방법
 

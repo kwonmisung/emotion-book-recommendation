@@ -8,9 +8,12 @@
 
 ## 📸 Screenshots
 
-![login](./screenshots/login.png)
-![waiting](이미지링크)
-![store](이미지링크)
+<p align="center">
+  <img src="./screenshots/login.png" width="250"/>
+  <img src="./screenshots/reco1.png" width="250"/>
+  <img src="./screenshots/music.png" width="250"/>
+  <img src="./screenshots/chart.png" width="250"/>
+</p>
 
 ## 🚀 주요 기능
 

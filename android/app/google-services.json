@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "902511247218",
+    "project_id": "graduproject-9445e",
+    "storage_bucket": "graduproject-9445e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902511247218:android:2cb8b12f1c7cc30846e7eb",
+        "android_client_info": {
+          "package_name": "com.example.gradu2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902511247218-9ras7f398f9m3kt4or9tfic5nc54nprg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gradu2",
+            "certificate_hash": "8e691426c6c8da60a25e3e79d42f15357b990966"
+          }
+        },
+        {
+          "client_id": "902511247218-rvjvpqll72sr4mk6cmc351bptha4gak4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwrHVgLJjNJ0S3BR1i9EEQt2373KWj0n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902511247218-rvjvpqll72sr4mk6cmc351bptha4gak4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "902511247218-rb0ku5kcdkrbk82okf12r131gqjg6fr2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gradu1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

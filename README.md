@@ -6,6 +6,12 @@
 
 ---
 
+## 📸 Screenshots
+
+![login](./screenshots/login.png)
+![waiting](이미지링크)
+![store](이미지링크)
+
 ## 🚀 주요 기능
 
 - 사용자 텍스트 입력 기반 감정 분석
